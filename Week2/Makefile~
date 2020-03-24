@@ -1,0 +1,4 @@
+read:
+	gcc -Wall -ansi -pedantic-errors readability.c -o read -lcs50 
+clean:
+	rm readability
